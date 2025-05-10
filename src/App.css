@@ -265,7 +265,7 @@ body {
   .input-box {
     padding: 0.4rem;
     margin-top: auto;
-    margin-bottom: 3rem; /* Move input box up from bottom */
+    margin-bottom: 1rem; /* Move input box up from bottom */
   }
   
   .input-box input {
@@ -286,7 +286,7 @@ body {
   }
   
   .input-box {
-    margin-bottom: 4rem; /* Move input box higher up on small screens */
+    margin-bottom: 1rem; /* Move input box higher up on small screens */
   }
   
   .input-box button {
